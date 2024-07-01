@@ -1,4 +1,4 @@
-## Todo-List-App Version 2
+## Todo-List-App
 
 File Structure:
 
